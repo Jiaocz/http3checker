@@ -1,6 +1,9 @@
 # HTTP/3 QUIC Tester
 测试你的浏览器是否使用HTTP/3 QUIC
 
+## Screenshot
+![ScreenShot](https://github.com/Jiaocz/http3checker/blob/main/screenshot.png)
+
 ## 前端构建
 [![Build Test](https://github.com/Jiaocz/http3checker/actions/workflows/build-test.yml/badge.svg)](https://github.com/Jiaocz/http3checker/actions/workflows/build-test.yml) [![CodeQL](https://github.com/Jiaocz/http3checker/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/Jiaocz/http3checker/actions/workflows/codeql-analysis.yml)
 
