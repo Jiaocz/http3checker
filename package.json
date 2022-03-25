@@ -1,0 +1,32 @@
+{
+  "name": "http3checker",
+  "version": "1.0.0",
+  "description": "测试浏览器是否使用HTTP/3",
+  "keywords": ["HTTP/3", "QUIC"],
+  "homepage": "https://h3.orangii.cn",
+  "author": {
+    "email": "me@orangii.cn",
+    "name": "Orangii|橙梓",
+    "url": "https://orangii.cn"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jiaocz/http3checker"
+  },
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "6",
+    "axios": "^0.26.1",
+    "vue": "^3.2.25"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.2.0",
+    "less": "^4.1.2",
+    "vite": "^2.8.0"
+  }
+}
