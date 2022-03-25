@@ -2,6 +2,8 @@
 测试你的浏览器是否使用HTTP/3 QUIC
 
 ## 前端构建
+[![Build Test](https://github.com/Jiaocz/http3checker/actions/workflows/build-test.yml/badge.svg)](https://github.com/Jiaocz/http3checker/actions/workflows/build-test.yml) [![CodeQL](https://github.com/Jiaocz/http3checker/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/Jiaocz/http3checker/actions/workflows/codeql-analysis.yml)
+
 使用[Vite.js](https://vitejs.dev)建立项目，使用以下命令安装依赖
 ```shell
 pnpm i # 安装依赖
