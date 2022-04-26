@@ -2,7 +2,10 @@
   "name": "http3checker",
   "version": "1.0.0",
   "description": "测试浏览器是否使用HTTP/3",
-  "keywords": ["HTTP/3", "QUIC"],
+  "keywords": [
+    "HTTP/3",
+    "QUIC"
+  ],
   "homepage": "https://h3.orangii.cn",
   "author": {
     "email": "me@orangii.cn",
@@ -21,7 +24,8 @@
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "6",
-    "axios": "^0.27.0",
+    "axios": "0.27.0",
+    "url": "^0.11.0",
     "vue": "^3.2.25"
   },
   "devDependencies": {
