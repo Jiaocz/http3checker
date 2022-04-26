@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "6",
-    "axios": "0.27.0",
+    "axios": "^0.27.0",
     "url": "^0.11.0",
     "vue": "^3.2.25"
   },
